@@ -1,16 +1,24 @@
-### Hi there 👋
+##Olá! Eu sou o Ivanio Martins
+- 🔭 Hoje trabalho com PL/SQL e Java
+- 🌱 Estudando Java e Spring Boot
+- 😄 Pronouns: ele/dele
 
-<!--
-**ivaniomartins/ivaniomartins** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div>
+  <a href="https://github.com/ivaniomartins">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ivaniomartins&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+ <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ivaniomartins&layout=compact&langs_count=7&theme=dark"/>
+</div>
+  <div style="display: inline_block"><br>
+  <img align="center" alt="Ivanio-Jv" height="50 width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
+  <img align="center" alt="Ivanio-Mb" height="50"width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-plain.svg">
+  <img align="center" alt="Ivanio-Ms" height="50" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
+  <img align="center" alt="Ivanio-Oc" height="60" width="40" src="https://github.com/devicons/devicon/blob/master/icons/oracle/oracle-original.svg"> 
+  <img align="center" alt="Ivanio-Spring" height="50" width="40" src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg">
+ 
+</div>
 
-Here are some ideas to get you started:
+##
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div> 
+ ![Snake animation](https://github.com/ivaniooliveira/ivaniooliveira/blob/output/github-contribution-grid-snake.svg)
+</div>
