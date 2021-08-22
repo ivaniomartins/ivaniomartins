@@ -1,5 +1,5 @@
 ##Olá! Eu sou o Ivanio Martins
-- 🔭 Hoje trabalho com PL/SQL e Java
+- 🔭 Atualmente trabalho com Oracle PL/SQL e Java
 - 🌱 Estudando Java e Spring Boot
 - 😄 Pronouns: ele/dele
 
