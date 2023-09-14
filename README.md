@@ -14,6 +14,8 @@
   <img align="center" alt="Ivanio-Ms" height="50" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
   <img align="center" alt="Ivanio-Oc" height="60" width="40" src="https://github.com/devicons/devicon/blob/master/icons/oracle/oracle-original.svg"> 
   <img align="center" alt="Ivanio-Spring" height="50" width="40" src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg">
+  <img align="center" alt="Ivanio-Spring" height="50" width="40" src=" https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-plain.svg">
+ 
  
 </div>
 
